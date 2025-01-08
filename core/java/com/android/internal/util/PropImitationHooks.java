@@ -86,9 +86,9 @@ public class PropImitationHooks {
             "HARDWARE", "caiman",
             "MANUFACTURER", "Google",
             "BRAND", "google",
-            "MODEL", "Pixel 9 Pro",
-            "ID", "AP4A.241205.013.C1",
-            "FINGERPRINT", "google/caiman/caiman:15/AP4A.241205.013.C1/12657666:user/release-keys"
+            "MODEL", "Pixel 9 Pro XL",
+            "ID", "AP4A.250105.002",
+            "FINGERPRINT", "google/komodo/komodo:15/AP4A.250105.002/12701944:user/release-keys"
     );
 
     private static final Map<String, String> sPixelFiveProps = Map.of(
